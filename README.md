@@ -10,6 +10,9 @@ Inicio do projeto
     por o nome do projeto que queremos, isso vai criar uma pasta com nome do projeto
 
         npx create-react-app . 
+        
+    Para um projeto ja em andamento o comando a cima vai dar conflito. Então para um em andamento vocÊ precisa instalar o rect
+        npm install react
 
     Para rodar o projeto, comando 
         npm start 
